@@ -5,9 +5,9 @@
 - Apache JMeter
 
 ## Scenerio
-Finding the actual TPS for if 120000 user can give load for 12 hour
+Finding the actual TPS for if 120000 user can give load for 12 hour.
 Perform load test on this URL: https://random-data-api.com/api/v2/users
-- Find out if the expected TPS (Transaction Per/Second) meet the above requirement. Breakdown the expected TPS in excel sheet and find out the actual TPS
+- Finding if the expected TPS (Transaction Per/Second) meet the above requirement. Breaking down the expected TPS in excel sheet and finding the actual TPS.
 - Creating another excel sheet where tring to find out the bottleneck/stress test point. (At which point the system starts to show 1% error)
 
 ## How to run this project
